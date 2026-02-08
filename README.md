@@ -60,7 +60,7 @@ This repository includes structured QA documentation:
 - **Test Case Spreadsheet** – detailed test cases, execution results, and summaries  
 
 👉 **Test Case Spreadsheet:**  
-*(Add Google Sheets link here)*
+*https://docs.google.com/spreadsheets/d/1I_HBleH-B5JXHQz5qN7PhzNH92wUwW-CYkI30RVG6vk/edit?usp=sharing*
 
 ---
 
