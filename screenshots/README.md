@@ -1,4 +1,4 @@
-## 📊 Test Summary
+## Test Summary
 
 ### Scenario-Based Test Summary
 The following screenshot shows the scenario-based test summary generated
