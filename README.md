@@ -11,7 +11,7 @@ core business flows, role-based access, and data consistency work as expected.
 
 ---
 
-## 👥 Roles Covered
+## Roles Covered
 The application was tested based on the following user roles:
 
 - **User (Nasabah)**  
@@ -25,7 +25,7 @@ The application was tested based on the following user roles:
 
 ---
 
-## 🧪 Scope of Testing
+## Scope of Testing
 The testing scope includes:
 
 - Authentication (Login)
@@ -38,7 +38,7 @@ The testing scope includes:
 
 ---
 
-## 🧠 Test Approach
+## Test Approach
 The following testing approaches were applied in this project:
 
 - Manual testing
@@ -51,7 +51,7 @@ from executed test cases to provide accurate test results.
 
 ---
 
-## 📄 Test Documentation
+## Test Documentation
 This repository includes structured QA documentation:
 
 - `REQUIREMENTS.md` – application requirements overview  
@@ -59,12 +59,12 @@ This repository includes structured QA documentation:
 - `TEST_SCENARIO.md` – high-level test scenarios  
 - **Test Case Spreadsheet** – detailed test cases, execution results, and summaries  
 
-👉 **Test Case Spreadsheet:**  
+**Test Case Spreadsheet:**  
 *https://docs.google.com/spreadsheets/d/1I_HBleH-B5JXHQz5qN7PhzNH92wUwW-CYkI30RVG6vk/edit?usp=sharing*
 
 ---
 
-## 🛠 Tools Used
+## Tools Used
 - Google Sheets (test case documentation and reporting)
 - GitHub (version control and documentation)
 - Google Chrome (testing environment)
@@ -72,11 +72,11 @@ This repository includes structured QA documentation:
 
 ---
 
-## ✅ Project Status
+## Project Status
 All planned test cases have been executed successfully within the defined scope.
 Based on the testing results, the application is considered functionally stable.
 
 ---
 
-## 👤 Author
+## Author
 **Josia Jounry Julius Nanlohy**
