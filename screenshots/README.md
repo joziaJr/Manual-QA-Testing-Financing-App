@@ -4,7 +4,7 @@
 The following screenshot shows the scenario-based test summary generated
 automatically from executed test cases.
 
-![Scenario-Based Test Summary](screenshots/scenario-summary.png)
+![Scenario-Based Test Summary](scenario-summary.png)
 
 ---
 
@@ -12,4 +12,4 @@ automatically from executed test cases.
 The following screenshot shows the test case-based summary that represents
 detailed test execution results.
 
-![Test Case Summary](screenshots/test-case-summary.png)
+![Test Case Summary](test-case-summary.png)
