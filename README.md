@@ -79,4 +79,4 @@ Based on the testing results, the application is considered functionally stable.
 ---
 
 ## Author
-**Josia Jounry Julius Nanlohy** **josia hanya iseng**
+**Josia Jounry Julius Nanlohy**
